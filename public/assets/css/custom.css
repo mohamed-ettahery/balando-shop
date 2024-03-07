@@ -1,0 +1,28 @@
+/*
+Custom Css
+*/
+.cart-content .order-summary
+{
+    background: #FFF;
+    padding: 20px;
+    border: 1px solid #e0dddd;
+}
+.cart-content .order-summary h3
+{
+    /* color: #333; */
+    color: #59AB6E;
+    margin-bottom: 29px;
+    margin-top: 10px;
+}
+.cart-content .order-summary h3+p
+{
+    color: dimgray;
+}
+.cart-content .order-summary table td
+{
+    color: dimgray;
+}
+.cart-content table th,.cart-content table td
+{
+    border-bottom: 1px solid #CCC !important;
+}
